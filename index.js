@@ -324,4 +324,4 @@ client.on('message', message => {
   console.log('[id] Send By: ' + message.author.username)
     }
 });
-client.login("dLMe23MDrMi1lcbyf_9iNcZEgLjCJ8Tg");
+client.login("NTQxMjk1NTMxNDgyMTUyOTYw.DzdhMw.Al7wna25DEamzXaQ9Ng7hkT_enY");
